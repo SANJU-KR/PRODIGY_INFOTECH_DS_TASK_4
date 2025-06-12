@@ -49,6 +49,4 @@ pip install pandas textblob matplotlib
 - Integrate advanced NLP techniques like VADER or transformer-based models (BERT).
 - Deploy as a web app using Streamlit or Flask.
 
-## 📫 Contact
 
-For any inquiries or suggestions, feel free to reach out.
